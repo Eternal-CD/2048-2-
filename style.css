@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(233, 172, 120, 0.698);
+}
+h1{
+    text-align: center ;
+    text-decoration: underline;
+}
+#fieldBlock{
+    margin-left: -100px;
+    padding-left: 50%;
+}
+#field{
+    float: left;
+    margin-top: 0px;
+    text-align: center;
+    width: 50px;
+    height: 15px;
+    font-weight: bold;
+
+}
+#fiendPlay{
+    background-color: rgb(95, 151, 197);
+    margin-top: 20px;
+    margin-left: -200px;
+    border: 5px ridge rgba(56, 55, 55, 0.226); 
+}
+
